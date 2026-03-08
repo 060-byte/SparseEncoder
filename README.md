@@ -13,6 +13,4 @@ https://github.com/TBC-TJU/MetaBCI
 # Implementation
 
 This repository contains the experimental data and implementation code.
-The proposed method is implemented in:
-
-SparseEncoder.py
+The proposed method is implemented in:`SparseEncoder.py`
